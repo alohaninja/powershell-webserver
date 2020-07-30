@@ -1,2 +1,5 @@
-# powershell-webserver
-A sample to play with Azure Devops Pipelines Custom Tasks
+
+
+I wanted to keep a simple powershell webserver
+
+I also wanted to play with ADO Pipelines custom tasks
