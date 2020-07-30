@@ -14,6 +14,9 @@ pool:
 trigger:
 - master
 
+pr: 
+- master
+
 steps:
 - task: k3sCI@1
   displayName: "Run k3s cross-platfrom Docker Image CI"
